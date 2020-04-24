@@ -5,8 +5,8 @@
 }
 
 body {
-    background-color: #d9dcd6; 
-}
+    background-color: #d9dcd6;
+} 
 
 a {
     color: #ffffff;
@@ -139,6 +139,6 @@ p {
     text-align: center;
 }
 
-.footer h4 {
+.footer h3 {
     font-size: 20px;
 }
